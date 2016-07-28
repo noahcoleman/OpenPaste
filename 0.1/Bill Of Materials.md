@@ -1,5 +1,5 @@
 #Bill of Materials
-**Most of these things can be purchased at a local hardware store or found online for less than the listed price.**
+*Most of these things can be purchased at a local hardware store or found online for less than the listed price.*
 
 | Part Number | Quantity | Unit Price | Total Price | Name | Link | Notes |
 |-------------|----------|------------|-------------|--------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
