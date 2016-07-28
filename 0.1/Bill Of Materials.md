@@ -1,4 +1,5 @@
 #Bill of Materials
+**Most of these things can be purchased at a local hardware store or found online for less than the listed price.**
 | Part Number | Quantity | Unit Price | Total Price | Name | Link | Notes |
 |-------------|----------|------------|-------------|--------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | 1 |  | $0.00 | Motor Mount | https://github.com/noahcoleman/OpenPaste/blob/master/0.1/STL/MotorMount_0.1.stl |  |
@@ -19,3 +20,4 @@
 | 16 | 1 | $9.88 | $9.88 | Luer Lock Needles (pack of 10) | http://www.mcmaster.com/#luer-lock-needles/=13hbro6 | Size and material depend on individual projects |
 |  |  |  |  |  |  |  |
 |  | *Total* |  | *$97.08* |  |  |  |
+
